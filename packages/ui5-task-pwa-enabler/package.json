@@ -12,7 +12,7 @@
     "ncu-upgrade": "ncu -u -x @ui5/fs"
   },
   "dependencies": {
-    "@ui5/fs": "^1.1.2",
+    "@ui5/fs": "^2.0.1",
     "graceful-fs": "latest",
     "jsdom": "^16.2.2",
     "mustache": "^4.0.1",
